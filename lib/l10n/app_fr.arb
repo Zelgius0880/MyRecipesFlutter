@@ -1,0 +1,28 @@
+{
+  "helloWorld": "'Jour",
+  "addStep": "Ajouter une étape",
+  "editStep": "Editer",
+  "addIngredient": "Ajouter un ingrédient",
+  "editIngredient": "Editer l'ingrédient",
+  "milliliter": "ml",
+  "liter": "l",
+  "unit": "Unit",
+  "teaspoon": "càc",
+  "tablespoon": "càs",
+  "gramme": "g",
+  "kilogramme": "kg",
+  "cup": "cp",
+  "pinch": "pincée",
+  "step" : "Etape",
+  "quantity" : "Quantité",
+  "ingredient" : "Ingredient",
+  "fieldRequired": "Ne peut être vide",
+  "notANumber": "Nombre invalide",
+  "optional" : "Optionnel",
+  "name" : "Nom",
+  "meal" : "Repas",
+  "dessert" : "Dessert",
+  "other" : "Autre",
+  "generate" : "Génerer"
+
+}
